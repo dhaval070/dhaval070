@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhaval070
-- 👀 I’m interested in backend development using Go, Node.js and Perl. Research emerging programming languages and cloud solutions. Parallel processing and concurrency oriented projects.
+- 👀 I’m interested in backend development using Go, Rust, Node.js and Perl. Research emerging programming languages and cloud solutions. Parallel processing and concurrency oriented projects.
 - 💞️ I’m looking to collaborate on Go and Node.js projects.
 - 📫 dhaval070@gmail.com
 
